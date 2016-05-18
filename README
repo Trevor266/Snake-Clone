@@ -1,0 +1,15 @@
+AUTHOR: TREVOR HART
+DATE: 5/17/16
+
+This is a simple snake clone with very basic menus, controls and audio. I do not claim that this is in any way 
+the best way to write a snake game, nor the most efficient, clean, robust, or anything else, I don't even guarentee 
+that you will be able to compile this program, it will however give you an idea of how one might implement a snake 
+algorithm. 
+
+This program is written in C++ using SDL 2 for things like audio, keyboard input, graphics, etc. It is written 
+to target Windows, if you want this to run on your platform of choice, there shouldn't be a whole lot of 
+changes you need to make, as SDL 2 is cross platform by nature.
+
+Best of luck, and happy programming
+
+-Trevor
